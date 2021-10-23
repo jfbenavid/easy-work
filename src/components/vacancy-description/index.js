@@ -2,9 +2,9 @@ import React from 'react'
 import { Vacancy } from './styles'
 
 export const VacancyDescription = (props) =>
-  <Vacancy>
+  <Vacancy href="#">
     <h3>
-      test
+      test test
     </h3>
     <div>
       prueba
