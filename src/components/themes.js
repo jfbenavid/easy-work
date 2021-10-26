@@ -1,4 +1,4 @@
-export const defaultTheme = {
+export const lightTheme = {
   colors: {
     text: 'rgb(83, 84, 83)',
     header: 'rgb(149, 153, 153)',
@@ -8,8 +8,8 @@ export const defaultTheme = {
 
 export const darkTheme = {
   colors: {
-    text: 'rgb(83, 84, 83)',
+    text: 'white',
     header: 'rgb(149, 153, 153)',
-    background: 'white'
+    background: 'black'
   }
 }
